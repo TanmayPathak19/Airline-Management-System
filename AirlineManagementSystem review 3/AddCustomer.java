@@ -1,4 +1,4 @@
-package airline.management.system;
+package airlinemanagementsystem;
 
 import javax.swing.*;
 import java.awt.*;
